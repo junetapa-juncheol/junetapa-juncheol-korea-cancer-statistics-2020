@@ -1,0 +1,72 @@
+# 환경 파일 및 API 키
+.env
+*.env
+.env.local
+.env.production
+*.key
+api_keys.txt
+config_secret.py
+
+# Python 캐시 및 빌드 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 가상환경
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 로그 파일
+*.log
+logs/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+*.temp
+temp/
+tmp/
+
+# 내부 검증 문서 (제거됨)
+COMPLIANCE_CHECKLIST.md
+internal_notes.md
+development_log.md
+
+# 테스트 파일
+test_*.py
+*_test.py
+tests/
