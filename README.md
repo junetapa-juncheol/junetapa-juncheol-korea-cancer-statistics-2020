@@ -46,7 +46,7 @@ python visualizer.py      # 시각화 생성
 ## 📈 결과물
 
 ### 🎯 **인터랙티브 대시보드 (메인 결과물)**
-**👉 [실시간 3D 인터랙티브 대시보드 보기](https://htmlpreview.github.io/?https://github.com/junetapa-juncheol/korea-cancer-statistics-2020/blob/main/charts/interactive_dashboard.html)**
+**👉 [실시간 3D 인터랙티브 대시보드 보기](https://htmlpreview.github.io/?https://github.com/junetapa-juncheol/junetapa-juncheol-korea-cancer-statistics-2020/blob/main/charts/interactive_dashboard.html)**
 
 ### 📁 **파일 구조**
 - **`charts/`**: 생성된 차트 이미지 및 인터랙티브 대시보드
